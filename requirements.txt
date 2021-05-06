@@ -3,7 +3,7 @@ aiohttp==3.7.4.post0
 aiohttp-requests==0.1.3
 astunparse==1.6.3
 async-timeout==3.0.1
-attrs==20.3.0
+attrs==21.1.0
 Babel==2.9.1
 braceexpand==0.1.6
 cchardet==2.1.7
