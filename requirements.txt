@@ -12,7 +12,7 @@ chardet==4.0.0
 dblpy==0.4.0
 discord.py==1.6
 humanize==3.4.1
-idna==3.1
+idna==3.2
 import-expression==1.1.4
 jishaku==1.20.0.220
 ksoftapi==0.4.1
